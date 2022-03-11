@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../karaoke-pipeline/karaokebot"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../slack_bot"
+		}
+	]
+}
