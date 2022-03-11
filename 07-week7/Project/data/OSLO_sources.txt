@@ -1,0 +1,82 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 24-01-2022
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 12 SOUID  : Source identifier
+ 14- 53 SOUNAME: Source name
+ 55- 56 CN     : Country code (ISO3116 country codes)
+ 58- 66 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 68- 77 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 79- 82 HGTH   : Station elevation in meters
+ 84- 87 ELEI   : Element identifier (see website at Daily Data > Data dictionary > Elements)
+ 89- 96 BEGIN  : Begin date YYYYMMDD
+ 98-105 END    : End date YYYYMMDD
+107-111 PARID  : Participant identifier
+113-163 PARNAME: Participant name
+
+STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
+
+18472,199234,OSLO - LILLEAKER                        ,NO,+59:55:13,+010:38:03,  39,TG21,20120201,20200528,   22,Hans Olav Hygen                                   
+18472,199298,E18 HJORTNES                            ,NO,+59:54:40,+010:42:15,  20,TG21,20130104,20211003,   22,Hans Olav Hygen                                   
+18472,199424,OSLO - BYGDOEY                          ,NO,+59:54:18,+010:40:58,  15,TG21,20120201,20211031,   22,Hans Olav Hygen                                   
+18472,199451,OSLO - SOFIENBERG                       ,NO,+59:55:08,+010:45:44,  37,TG21,20160131,20211130,   22,Hans Olav Hygen                                   
+18472,199691,E18 SANDVIKA                            ,NO,+59:53:32,+010:32:25,   3,TG21,20130104,20211129,   22,Hans Olav Hygen                                   
+18472,200771,BYGDOEY                                 ,NO,+59:54:00,+010:40:00,  23,TG21,19370101,19410213,   22,Hans Olav Hygen                                   
+18472,200898,OSLO - OBSERVATORIET (HYTTE)            ,NO,+59:54:46,+010:43:03,  25,TG21,19000101,19370429,   22,Hans Olav Hygen                                   
+18472,200944,FORNEBU                                 ,NO,+59:53:34,+010:36:57,  10,TG21,19540101,19981007,   22,Hans Olav Hygen                                   
+18215,199234,OSLO - LILLEAKER                        ,NO,+59:55:13,+010:38:03,  39,TG21,20120201,20200528,   22,Hans Olav Hygen                                   
+18215,199298,E18 HJORTNES                            ,NO,+59:54:40,+010:42:15,  20,TG21,20130104,20211003,   22,Hans Olav Hygen                                   
+18215,199424,OSLO - BYGDOEY                          ,NO,+59:54:18,+010:40:58,  15,TG21,20120201,20211031,   22,Hans Olav Hygen                                   
+18215,199451,OSLO - SOFIENBERG                       ,NO,+59:55:08,+010:45:44,  37,TG21,20160131,20211130,   22,Hans Olav Hygen                                   
+18215,199691,E18 SANDVIKA                            ,NO,+59:53:32,+010:32:25,   3,TG21,20130104,20211129,   22,Hans Olav Hygen                                   
+18215,200771,BYGDOEY                                 ,NO,+59:54:00,+010:40:00,  23,TG21,19370101,19410213,   22,Hans Olav Hygen                                   
+18215,200898,OSLO - OBSERVATORIET (HYTTE)            ,NO,+59:54:46,+010:43:03,  25,TG21,19000101,19370429,   22,Hans Olav Hygen                                   
+18215,200944,FORNEBU                                 ,NO,+59:53:34,+010:36:57,  10,TG21,19540101,19981007,   22,Hans Olav Hygen                                   
+18224,199234,OSLO - LILLEAKER                        ,NO,+59:55:13,+010:38:03,  39,TG21,20120201,20200528,   22,Hans Olav Hygen                                   
+18224,199298,E18 HJORTNES                            ,NO,+59:54:40,+010:42:15,  20,TG21,20130104,20211003,   22,Hans Olav Hygen                                   
+18224,199424,OSLO - BYGDOEY                          ,NO,+59:54:18,+010:40:58,  15,TG21,20120201,20211031,   22,Hans Olav Hygen                                   
+18224,199451,OSLO - SOFIENBERG                       ,NO,+59:55:08,+010:45:44,  37,TG21,20160131,20211130,   22,Hans Olav Hygen                                   
+18224,200771,BYGDOEY                                 ,NO,+59:54:00,+010:40:00,  23,TG21,19370101,19410213,   22,Hans Olav Hygen                                   
+18224,200898,OSLO - OBSERVATORIET (HYTTE)            ,NO,+59:54:46,+010:43:03,  25,TG21,19000101,19370429,   22,Hans Olav Hygen                                   
+18687,199298,E18 HJORTNES                            ,NO,+59:54:40,+010:42:15,  20,TG21,20130104,20211003,   22,Hans Olav Hygen                                   
+18687,199424,OSLO - BYGDOEY                          ,NO,+59:54:18,+010:40:58,  15,TG21,20120201,20211031,   22,Hans Olav Hygen                                   
+18687,199691,E18 SANDVIKA                            ,NO,+59:53:32,+010:32:25,   3,TG21,20130104,20211129,   22,Hans Olav Hygen                                   
+18687,200771,BYGDOEY                                 ,NO,+59:54:00,+010:40:00,  23,TG21,19370101,19410213,   22,Hans Olav Hygen                                   
+18687,200898,OSLO - OBSERVATORIET (HYTTE)            ,NO,+59:54:46,+010:43:03,  25,TG21,19000101,19370429,   22,Hans Olav Hygen                                   
+18687,200944,FORNEBU                                 ,NO,+59:53:34,+010:36:57,  10,TG21,19540101,19981007,   22,Hans Olav Hygen                                   
+18904,199234,OSLO - LILLEAKER                        ,NO,+59:55:13,+010:38:03,  39,TG21,20120201,20200528,   22,Hans Olav Hygen                                   
+18904,199298,E18 HJORTNES                            ,NO,+59:54:40,+010:42:15,  20,TG21,20130104,20211003,   22,Hans Olav Hygen                                   
+18904,199424,OSLO - BYGDOEY                          ,NO,+59:54:18,+010:40:58,  15,TG21,20120201,20211031,   22,Hans Olav Hygen                                   
+18904,199451,OSLO - SOFIENBERG                       ,NO,+59:55:08,+010:45:44,  37,TG21,20160131,20211130,   22,Hans Olav Hygen                                   
+18904,199691,E18 SANDVIKA                            ,NO,+59:53:32,+010:32:25,   3,TG21,20130104,20211129,   22,Hans Olav Hygen                                   
+18904,200771,BYGDOEY                                 ,NO,+59:54:00,+010:40:00,  23,TG21,19370101,19410213,   22,Hans Olav Hygen                                   
+18904,200898,OSLO - OBSERVATORIET (HYTTE)            ,NO,+59:54:46,+010:43:03,  25,TG21,19000101,19370429,   22,Hans Olav Hygen                                   
+18904,200944,FORNEBU                                 ,NO,+59:53:34,+010:36:57,  10,TG21,19540101,19981007,   22,Hans Olav Hygen                                   
+19016,199298,E18 HJORTNES                            ,NO,+59:54:40,+010:42:15,  20,TG21,20130104,20211003,   22,Hans Olav Hygen                                   
+19016,199424,OSLO - BYGDOEY                          ,NO,+59:54:18,+010:40:58,  15,TG21,20120201,20211031,   22,Hans Olav Hygen                                   
+19016,199451,OSLO - SOFIENBERG                       ,NO,+59:55:08,+010:45:44,  37,TG21,20160131,20211130,   22,Hans Olav Hygen                                   
+19016,199691,E18 SANDVIKA                            ,NO,+59:53:32,+010:32:25,   3,TG21,20130104,20211129,   22,Hans Olav Hygen                                   
+19016,200771,BYGDOEY                                 ,NO,+59:54:00,+010:40:00,  23,TG21,19370101,19410213,   22,Hans Olav Hygen                                   
+19016,200898,OSLO - OBSERVATORIET (HYTTE)            ,NO,+59:54:46,+010:43:03,  25,TG21,19000101,19370429,   22,Hans Olav Hygen                                   
+19016,200944,FORNEBU                                 ,NO,+59:53:34,+010:36:57,  10,TG21,19540101,19981007,   22,Hans Olav Hygen                                   
+19016,201020,OSLO - HAUSMANNSGT                      ,NO,+59:55:50,+010:45:16,  12,TG21,20120201,20120730,   22,Hans Olav Hygen                                   
+19056,199298,E18 HJORTNES                            ,NO,+59:54:40,+010:42:15,  20,TG21,20130104,20211003,   22,Hans Olav Hygen                                   
+19056,199424,OSLO - BYGDOEY                          ,NO,+59:54:18,+010:40:58,  15,TG21,20120201,20211031,   22,Hans Olav Hygen                                   
+19056,199691,E18 SANDVIKA                            ,NO,+59:53:32,+010:32:25,   3,TG21,20130104,20211129,   22,Hans Olav Hygen                                   
+19056,200771,BYGDOEY                                 ,NO,+59:54:00,+010:40:00,  23,TG21,19370101,19410213,   22,Hans Olav Hygen                                   
+19056,200898,OSLO - OBSERVATORIET (HYTTE)            ,NO,+59:54:46,+010:43:03,  25,TG21,19000101,19370429,   22,Hans Olav Hygen                                   
+19056,200944,FORNEBU                                 ,NO,+59:53:34,+010:36:57,  10,TG21,19540101,19981007,   22,Hans Olav Hygen                                   
+19056,201020,OSLO - HAUSMANNSGT                      ,NO,+59:55:50,+010:45:16,  12,TG21,20120201,20120730,   22,Hans Olav Hygen                                   
+19201,199298,E18 HJORTNES                            ,NO,+59:54:40,+010:42:15,  20,TG21,20130104,20211003,   22,Hans Olav Hygen                                   
+19201,199424,OSLO - BYGDOEY                          ,NO,+59:54:18,+010:40:58,  15,TG21,20120201,20211031,   22,Hans Olav Hygen                                   
+19201,200771,BYGDOEY                                 ,NO,+59:54:00,+010:40:00,  23,TG21,19370101,19410213,   22,Hans Olav Hygen                                   
+19201,200898,OSLO - OBSERVATORIET (HYTTE)            ,NO,+59:54:46,+010:43:03,  25,TG21,19000101,19370429,   22,Hans Olav Hygen                                   
+19201,200944,FORNEBU                                 ,NO,+59:53:34,+010:36:57,  10,TG21,19540101,19981007,   22,Hans Olav Hygen                                   
+19201,201020,OSLO - HAUSMANNSGT                      ,NO,+59:55:50,+010:45:16,  12,TG21,20120201,20120730,   22,Hans Olav Hygen                                   
