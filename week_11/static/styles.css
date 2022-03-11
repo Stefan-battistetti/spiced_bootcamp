@@ -1,0 +1,18 @@
+#headline {
+    color:pink;
+    font-size: 80px;
+    /* position: absolute;
+    top: 0px;
+    left: 0px; */
+}
+
+/* applies the element with id "container" */
+#container {
+    max-width: 500px;
+    margin: auto;
+}
+
+/* applies to all elements with class "green" */
+.green {
+    color: green;
+}

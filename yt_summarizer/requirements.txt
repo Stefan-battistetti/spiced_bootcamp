@@ -1,0 +1,9 @@
+gTTS==2.2.3
+matplotlib==3.5.1
+openai==0.14.0
+Pillow==9.0.1
+seaborn==0.11.1
+stop_words==2018.7.23
+streamlit==1.7.0
+stylecloud==0.5.2
+youtube_transcript_api==0.4.3

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Wrecker!</title>
+</head>
+<body>
+    <h1>Welcome to the MOVIE WRECKER!</h1> 
+    <h2>Please search for your favorite movies:</h2>
+    <form autocomplete="off" action="/recommender"> <!-- we pass the name of the page from application.py-->
+    {% for i in range(3) %}
+    <input type="text" name="movies">
+    <br>
+    {% endfor %}
+        <br>
+        <label for="method">Choose a method:</label>
+        <select id="method" name="methods">
+            <option value="random">Random</option>
+            <option value="popular">Popular</option>
+            <option value="nmf">NMF</option>
+            <option value="neighbors">Neighbors</option>
+        </select>
+        <input type="submit">
+    </form>
+</body>
+</html>
+
+
+<!--Make sure the form has the autocomplete function switched off:-->
+<!-- <form autocomplete="off" action="/action_page.php">
+    <div class="autocomplete" style="width:300px;">
+        <input id="myInput" type="text" name="myCountry" placeholder="Country">
+    </div>
+    <input type="submit">
+</form> -->
