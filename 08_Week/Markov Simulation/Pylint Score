@@ -1,0 +1,40 @@
+Last login: Sat Feb  5 17:25:30 on ttys000
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) Payams-MacBook-Pro:Markov Simulation Disalo$ pylint Markov_Simulation.py
+************* Module Markov_Simulation
+Markov_Simulation.py:1:13: C0303: Trailing whitespace (trailing-whitespace)
+Markov_Simulation.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+Markov_Simulation.py:20:0: C0303: Trailing whitespace (trailing-whitespace)
+Markov_Simulation.py:23:0: C0303: Trailing whitespace (trailing-whitespace)
+Markov_Simulation.py:26:0: C0301: Line too long (122/100) (line-too-long)
+Markov_Simulation.py:27:0: C0303: Trailing whitespace (trailing-whitespace)
+Markov_Simulation.py:36:76: C0303: Trailing whitespace (trailing-whitespace)
+Markov_Simulation.py:38:0: C0303: Trailing whitespace (trailing-whitespace)
+Markov_Simulation.py:51:0: C0303: Trailing whitespace (trailing-whitespace)
+Markov_Simulation.py:59:0: C0303: Trailing whitespace (trailing-whitespace)
+Markov_Simulation.py:65:0: C0303: Trailing whitespace (trailing-whitespace)
+Markov_Simulation.py:70:0: C0303: Trailing whitespace (trailing-whitespace)
+Markov_Simulation.py:79:0: C0301: Line too long (127/100) (line-too-long)
+Markov_Simulation.py:1:0: C0103: Module name "Markov_Simulation" doesn't conform to snake_case naming style (invalid-name)
+Markov_Simulation.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+Markov_Simulation.py:16:8: C0103: Attribute name "id" doesn't conform to snake_case naming style (invalid-name)
+Markov_Simulation.py:15:23: W0622: Redefining built-in 'id' (redefined-builtin)
+Markov_Simulation.py:30:8: R1705: Unnecessary "else" after "return" (no-else-return)
+Markov_Simulation.py:44:8: C0103: Attribute name "df" doesn't conform to snake_case naming style (invalid-name)
+Markov_Simulation.py:48:8: W0622: Redefining built-in 'min' (redefined-builtin)
+Markov_Simulation.py:46:4: C0116: Missing function or method docstring (missing-function-docstring)
+Markov_Simulation.py:46:4: R1711: Useless return at end of function or method (useless-return)
+Markov_Simulation.py:56:8: W0622: Redefining built-in 'id' (redefined-builtin)
+Markov_Simulation.py:54:8: C0103: Variable name "f" doesn't conform to snake_case naming style (invalid-name)
+Markov_Simulation.py:56:8: C0103: Variable name "id" doesn't conform to snake_case naming style (invalid-name)
+Markov_Simulation.py:49:8: W0201: Attribute 'timestamp' defined outside __init__ (attribute-defined-outside-init)
+Markov_Simulation.py:82:4: C0103: Constant name "Minutes_to_simulate" doesn't conform to UPPER_CASE naming style (invalid-name)
+Markov_Simulation.py:1:0: W0611: Unused import random (unused-import)
+
+-----------------------------------
+Your code has been rated at 5.33/10
+
+(base) Payams-MacBook-Pro:Markov Simulation Disalo$ 
