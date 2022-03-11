@@ -1,0 +1,149 @@
+,country,year,income,happiness_rate,lifeExp,continent
+14,Afghanistan,2019,2070.0,25.7,63.3,Asia
+1859,South Sudan,2019,1940.0,28.2,63.7,Africa
+2219,Zimbabwe,2019,2840.0,33.0,61.0,Africa
+1724,Rwanda,2019,2230.0,33.1,68.7,Africa
+2054,Tanzania,2019,2660.0,34.8,67.2,Africa
+344,Central African Republic,2019,945.0,34.8,52.4,Africa
+329,Botswana,2019,17800.0,34.8,62.3,Africa
+2174,Yemen,2019,2610.0,35.3,67.7,Asia
+1424,Malawi,2019,1060.0,35.4,64.7,Africa
+914,India,2019,6700.0,35.7,70.8,Asia
+1184,Lesotho,2019,2700.0,36.5,51.8,Africa
+869,Haiti,2019,2910.0,37.2,63.8,North America
+2204,Zambia,2019,3470.0,37.6,63.2,Africa
+149,Burundi,2019,752.0,37.8,63.8,Africa
+1799,Sierra Leone,2019,1720.0,39.3,61.8,Africa
+614,Egypt,2019,11800.0,41.5,71.0,Africa
+1274,Madagascar,2019,1650.0,41.7,65.5,Africa
+1949,Togo,2019,1600.0,41.9,65.0,Africa
+659,Ethiopia,2019,2220.0,41.9,68.8,Africa
+449,Comoros,2019,3060.0,42.9,68.7,Africa
+1169,Sri Lanka,2019,13100.0,43.3,77.3,Asia
+1394,Mauritania,2019,5200.0,43.7,70.8,Africa
+2024,Tunisia,2019,10800.0,43.9,77.7,Africa
+1934,Chad,2019,1580.0,44.2,60.4,Africa
+2069,Uganda,2019,2190.0,44.3,66.2,Africa
+1139,Liberia,2019,1430.0,45.6,66.1,Africa
+2084,Ukraine,2019,12800.0,45.6,73.8,Europe
+1454,Namibia,2019,9640.0,45.7,65.2,Africa
+1079,Kenya,2019,4330.0,45.8,66.5,Africa
+1379,Mozambique,2019,1280.0,46.2,58.4,Africa
+1034,Jordan,2019,10100.0,46.3,78.2,Asia
+944,Iran,2019,12400.0,46.7,77.8,Asia
+734,Georgia,2019,15000.0,46.7,73.4,Europe
+89,Armenia,2019,13700.0,46.8,75.7,Europe
+1484,Nigeria,2019,5140.0,47.2,64.3,Africa
+1319,Mali,2019,2320.0,47.3,61.8,Africa
+779,Gambia,2019,2220.0,47.5,66.7,Africa
+1124,Lebanon,2019,14600.0,47.7,76.6,Asia
+959,Iraq,2019,10900.0,47.8,73.3,Asia
+2189,South Africa,2019,12500.0,48.1,65.1,Africa
+194,Bangladesh,2019,4750.0,48.3,74.5,Asia
+704,Gabon,2019,14900.0,48.3,67.8,Africa
+1094,Cambodia,2019,4390.0,48.5,69.9,Asia
+44,Albania,2019,13700.0,48.8,78.5,Europe
+1469,Niger,2019,1230.0,49.1,62.5,Africa
+764,Guinea,2019,2560.0,49.5,61.2,Africa
+1769,Senegal,2019,3400.0,49.8,68.5,Africa
+584,Algeria,2019,11500.0,50.1,76.2,Africa
+2144,Venezuela,2019,8320.0,50.5,75.0,South America
+419,Cameroon,2019,3640.0,50.8,63.4,Africa
+1244,Morocco,2019,7520.0,50.9,73.3,Africa
+209,Bulgaria,2019,23300.0,51.0,73.3,Europe
+404,China,2019,16100.000000000002,51.2,77.6,Asia
+1994,Turkmenistan,2019,15600.0,51.2,70.8,Asia
+2039,Turkey,2019,28300.0,51.3,78.4,Asia
+1544,Nepal,2019,3420.0,51.4,71.1,Asia
+749,Ghana,2019,5410.0,51.5,66.3,Africa
+134,Azerbaijan,2019,14400.0,51.6,71.0,Europe
+1289,Maldives,2019,19500.0,52.0,79.1,Asia
+179,Benin,2019,3290.0,52.2,64.5,Africa
+899,Indonesia,2019,11800.0,52.9,71.4,Asia
+2159,Vietnam,2019,8040.0,53.5,74.5,Asia
+1439,Malaysia,2019,28400.0,53.8,75.0,Asia
+1364,Mongolia,2019,12300.0,54.6,68.1,Asia
+1154,Libya,2019,15200.0,54.9,75.9,Africa
+854,Croatia,2019,28800.0,55.0,78.7,Europe
+794,Greece,2019,30500.0,55.1,80.9,Europe
+254,Belarus,2019,19100.0,55.4,74.0,Europe
+1349,Montenegro,2019,21600.0,55.5,75.9,Europe
+1979,Tajikistan,2019,3380.0,55.6,69.6,Asia
+1259,Moldova,2019,13100.0,56.1,74.3,Europe
+239,Bosnia and Herzegovina,2019,14900.0,56.7,77.0,Europe
+1589,Pakistan,2019,4690.0,56.9,65.9,Asia
+1679,Paraguay,2019,12700.0,56.9,76.6,South America
+569,Dominican Republic,2019,18400.0,56.9,73.2,North America
+284,Bolivia,2019,8720.0,57.5,72.0,South America
+1844,Serbia,2019,18400.0,57.8,75.7,Europe
+1619,Peru,2019,12800.0,58.0,80.3,South America
+1049,Japan,2019,41700.0,58.7,84.8,Asia
+1019,Jamaica,2019,9760.0,58.9,76.3,North America
+1664,Portugal,2019,35000.0,59.1,81.7,Europe
+599,Ecuador,2019,11400.0,59.3,76.4,South America
+839,Honduras,2019,5730.0,59.5,72.1,North America
+1229,Latvia,2019,31000.0,59.5,75.9,Europe
+74,Argentina,2019,22100.0,59.7,76.6,South America
+1964,Thailand,2019,18500.0,60.0,78.4,Asia
+884,Hungary,2019,32600.0,60.0,76.6,Europe
+1634,Philippines,2019,8910.0,60.1,71.8,Asia
+644,Estonia,2019,37000.0,60.2,78.0,Europe
+1064,Kazakhstan,2019,26400.0,60.6,71.9,Asia
+1109,Kuwait,2019,49900.0,61.0,81.5,Asia
+1409,Mauritius,2019,22900.0,61.0,75.5,Africa
+1709,Romania,2019,30000.0,61.2,75.5,Europe
+1499,Nicaragua,2019,5410.0,61.4,75.4,North America
+494,Cyprus,2019,39500.0,61.6,80.8,Europe
+434,Colombia,2019,14600.0,61.6,80.2,South America
+2009,Trinidad and Tobago,2019,26200.0,61.9,74.9,North America
+1649,Poland,2019,33200.0,61.9,78.1,Europe
+1199,Lithuania,2019,37300.0,62.2,76.2,Europe
+224,Bahrain,2019,45000.0,62.3,77.0,Asia
+389,Chile,2019,25100.0,62.3,80.2,South America
+2129,Uzbekistan,2019,7000.0,62.6,68.4,Asia
+1604,Panama,2019,31500.0,63.0,80.0,North America
+1814,El Salvador,2019,8780.0,63.5,75.7,North America
+1889,Slovenia,2019,39000.0,63.6,81.4,Europe
+299,Brazil,2019,14700.0,63.8,75.8,South America
+1784,Singapore,2019,97300.0,63.8,84.8,Asia
+1004,Italy,2019,42400.0,63.9,83.1,Europe
+629,Spain,2019,41000.0,64.0,83.1,Europe
+809,Guatemala,2019,8640.0,64.0,72.6,North America
+1739,Saudi Arabia,2019,47000.0,64.1,74.5,Asia
+2099,Uruguay,2019,21600.0,64.4,77.5,South America
+1304,Mexico,2019,19800.0,64.7,75.6,North America
+689,France,2019,46100.0,66.6,82.9,Europe
+1334,Malta,2019,43700.0,67.7,82.6,Europe
+59,United Arab Emirates,2019,67100.0,67.9,73.9,Asia
+164,Belgium,2019,51900.0,68.6,81.4,Europe
+509,Czech Republic,2019,40800.0,69.1,79.5,Europe
+2114,United States,2019,62500.0,69.4,78.9,North America
+524,Germany,2019,53800.0,70.8,81.2,Europe
+929,Ireland,2019,86700.0,70.9,82.0,Europe
+464,Costa Rica,2019,20300.0,71.2,80.1,North America
+989,Israel,2019,40200.0,71.3,83.0,Asia
+719,United Kingdom,2019,46700.0,71.6,81.1,Europe
+104,Australia,2019,49600.0,72.2,82.9,Australia and Oceania
+359,Canada,2019,48900.0,72.3,82.2,North America
+1214,Luxembourg,2019,114000.0,72.4,82.9,Europe
+119,Austria,2019,56000.0,72.9,82.2,Europe
+1559,New Zealand,2019,43700.0,73.0,81.8,Australia and Oceania
+1904,Sweden,2019,52600.0,73.5,82.8,Europe
+1514,Netherlands,2019,56800.0,74.5,81.7,Europe
+1529,Norway,2019,65000.0,74.9,82.9,Europe
+974,Iceland,2019,55600.0,75.0,84.1,Europe
+374,Switzerland,2019,68400.0,75.6,84.0,Europe
+554,Denmark,2019,57800.0,76.5,81.1,Europe
+674,Finland,2019,48800.0,78.1,81.9,Europe
+29,Angola,2019,6670.0,,65.1,Africa
+269,Belize,2019,7010.0,,74.5,North America
+314,Bhutan,2019,11800.0,,73.2,Asia
+479,Cuba,2019,9790.0,,78.7,North America
+539,Djibouti,2019,5540.0,,66.8,Africa
+824,Guyana,2019,13100.0,,67.3,South America
+1574,Oman,2019,27300.0,,74.0,Asia
+1694,Qatar,2019,90000.0,,76.3,Asia
+1754,Sudan,2019,3960.0,,70.5,Africa
+1829,Somalia,2019,703.0,,58.5,Africa
+1874,Suriname,2019,16500.0,,72.7,South America
+1919,Syria,2019,3810.0,,73.9,Asia
