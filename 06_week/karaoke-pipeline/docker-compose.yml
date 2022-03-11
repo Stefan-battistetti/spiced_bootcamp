@@ -1,0 +1,24 @@
+version: '3'
+
+# docker-compose build (1x only if you edit the Dockerfile or files used by it)
+# docker-compose up    (everytime you start the pipeline)
+
+# a list of all containers you intend to use
+services:
+
+  # first: SQL DB
+  postgresdb:          # name : also the hostname
+    image: postgres    # image downloaded from DockerHub
+    ports:
+    - 5555:5432        # maps port 5432 *inside* the container to port 5555 on my local machine
+                       # because port 5432 is already used on my local machine
+    environment:       # set an environment variable
+    - POSTGRES_PASSWORD=titanic99
+
+  # second: run Python
+  karaokebot:              # name
+    build: karaokebot/     # look for a Dockerfile here -> creates an image
+    volumes:               # this is how we get the python program + files in:
+    - ./karaokebot/:/app   # makes the karaokebot/ folder available in the container as app/
+    depends_on:            # this means that the postgres container is started then the karaokebot
+    - postgresdb
